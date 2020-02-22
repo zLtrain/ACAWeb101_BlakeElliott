@@ -29,6 +29,16 @@ span {
     width: 270px;
     margin:20px;
 }
+.childItems ul{
+    padding:0px
+}
+li{
+    list-style-type: none;
+}
 textarea{
     width: 90%;
+}
+.Contact_Info{
+    display: flex;
+    flex-direction: column;
 }
